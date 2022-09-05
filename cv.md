@@ -88,6 +88,21 @@ Easy to learn. I want to learn and find a job.
 ## 7. [Image-gallery](https://rolling-scopes-school.github.io/kingerburg-JSFEPRESCHOOL/image-galery/)
 
 ----
+### Languages
 
+----
+
+* ***Russian***
+* ***English***
+
+----
+
+#### English
+
+----
+
+Level B2, i am studying and trying to improve my English level
+
+----
 
 
