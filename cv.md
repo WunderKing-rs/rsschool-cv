@@ -9,8 +9,8 @@
 * ***Adress:*** Belarus, Minsk.
 * ***Phone:*** +375(33) 334-35-58
 * ***E-mail:*** <vancel92@yandex.by>
-* ***Github:*** [kingerburg](https://github.com/Kingerburg)
-* ***Discord:*** [kingerburg](https://discordapp.com/users/919987438384984104/)
+* ***Github:*** [wunderking-rs](https://github.com/wunderking-rs)
+* ***Discord:*** [wunderking-rs](https://discordapp.com/users/1015912992426168371/)
 
 ----
 
